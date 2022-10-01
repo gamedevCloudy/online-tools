@@ -43,7 +43,8 @@ h6{
 }
 
 .content{
-    text-align: relative;
+    align-content: justified;
+    text-align: centre;
     position: relative; 
     width: 80%; 
 }
