@@ -1,5 +1,5 @@
 body {
-	color: #1b1b1b;
+	color: #121212;
 	text-align: justified;
     font-family: "Inconsolata", monospace;
 	width: 75%;
@@ -46,4 +46,8 @@ h6{
     text-align: relative;
     position: relative; 
     width: 80%; 
+}
+
+.light{
+    background-color: #A170DB;
 }
