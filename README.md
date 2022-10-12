@@ -27,6 +27,8 @@
 	          </tr>
         
 + save and exit
++ git add *
++ git commit -m "A message for the files you added/modified"
 + git push origin -u your-branch-name
 + open github.com and open this repo. 
 + you should see a compare and create pull request button. 
