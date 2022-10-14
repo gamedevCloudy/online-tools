@@ -13,13 +13,15 @@ hr {
 
 a {
 	color: #7b32d9;
+	text-decoration: none;
 }
 /* h1{
 	color: #7b32d9; 
 } */
 
 a:hover:not(.page-heading):not(#anylink) {
-    color: #ffffff;
+	color: #b897e4;
+    /* color: #ffffff; */
     background-color: #1b1b1b;
     text-decoration: none;
     padding: 2px;
@@ -43,10 +45,14 @@ h6{
 }
 
 .content{
-    align-content: justified;
+	align-content: justified;
     text-align: centre;
+	margin: auto;
     position: relative; 
     width: 80%; 
+}
+.content table{
+	margin: auto;
 }
 
 .light{
